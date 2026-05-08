@@ -29,7 +29,7 @@
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> Salesforce </p>
+    <p><strong>Course Opted:</strong> Salesforce Administration and Development </p>
     <p><strong>Instructor Name:</strong> Sriram Yarrabothula </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
